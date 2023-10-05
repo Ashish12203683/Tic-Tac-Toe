@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A Python-based Tic-Tac-Toe game implementing a 3x3 grid, allowing two players to take turns marking X and O to win by aligning three symbols horizontally, vertically, or diagonally.
+Tic-Tac-Toe in Python is a classic game where two players take turns marking spaces in a 3x3 grid. The goal is to be the first to form a horizontal, vertical, or diagonal line of your symbols (X or O). This project involves creating a console-based implementation of the game, allowing players to input their moves and displaying the game board. Python's logic and data structures are used to manage gameplay and determine the winner.
